@@ -3,6 +3,9 @@
 - MERN Overview 
 - TypeScript & TDD
 
+# env
+
+[What is the difference between SETX and SET in environment variables in Windows](https://superuser.com/questions/916649/what-is-the-difference-between-setx-and-set-in-environment-variables-in-windows)
 
 ---
 
