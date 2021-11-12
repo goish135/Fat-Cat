@@ -4,6 +4,7 @@ ref: **[助教Resource]**
 
 1. Backend
 2. Frontend
+    - https://github.com/xiao617/React_slide
 
 > PS: Cool `reveal.js`
 
