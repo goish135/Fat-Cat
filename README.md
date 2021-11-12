@@ -5,7 +5,7 @@ ref: **[助教Resource]**
 1. Backend
 2. Frontend
 
-> PS: reveal.js
+> PS: Cool `reveal.js`
 
 ---
 
