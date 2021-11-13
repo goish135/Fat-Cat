@@ -6,6 +6,11 @@ ref: **[助教Resource]**
     - https://yubintw.github.io/MERN_Backend_TDD_slide/export/index.html#/
 3. Frontend
     - https://github.com/xiao617/React_slide
+    - https://github.com/xiao617/React_practice_breakdown
+    
+    - https://primefaces.org/primereact/showcase/#/
+    - https://zh-hant.reactjs.org/docs/hooks-intro.html
+    - 補充: JS - for foreach map & reduce 
 
 > PS: Cool `reveal.js`
 
