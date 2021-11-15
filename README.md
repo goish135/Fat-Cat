@@ -1,5 +1,41 @@
 # Tech
 
+**[Git Pull Request]**
+
+**Extension**
+
+    1. Git Lens
+   
+    2. Git Graph
+
+1. 情境1 : 建 master(main)， branch(feature/a)， **merge** branch into master
+    - git init 
+    - git branch master
+    - add a.txt file 
+    - git add . 
+    - git commit -m "a.txt"
+    - git branch feature/a
+    - git chechout feature/a
+    - add b.txt file
+    - git add .
+    - git commit -m "b.txt"
+    - git chechout master
+    - git mearge feature/a
+3. 情境2 : 解決**衝突**，dev merge 到 master 會有衝突(選A?,選B?,選Both?)
+    - git clone xxx 
+    - git branch  # 查看分支 # 找不到除了master以外的分支
+    - git branch -a # 長出來了(master以外的分支)
+    - git checkout [某分支]
+    - git branch 
+    - git checkout master
+    - git merge dev # 衝突發生
+    - 編輯 >>> <<<< (選A?,選B?,選Both?) 
+    - git add .
+    - git commit -m "ex:Both"
+    - git merge dev
+
+---
+
 ref: **[助教Resource]**
 
 1. Backend :thumbsup:
