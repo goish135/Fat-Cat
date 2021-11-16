@@ -1,5 +1,15 @@
 # Tech
 
+**[MERN Backend]**
+
+1. **[GET/POST/`PUT/DELETE`]**
+2. TDD 
+    - Use case:  getById 
+    - Tool: JEST ?
+    - npm run test 
+
+---
+
 **[Git Pull Request]**
 
 ref: https://backlog.com/git-tutorial/tw/stepup/stepup2_1.html
