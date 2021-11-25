@@ -7,8 +7,8 @@ Project ...
 1. **[GET/POST/`PUT/DELETE`]**
 2. TDD 
     - Use case:  getById 
-    - Tool: JEST ?
-    - npm run test 
+    - Test: JEST 
+    - npm run test (**defined** by package.json)
 
 DIY: https://hackmd.io/@goish135/backend-practice
 
