@@ -4,9 +4,11 @@ Project ... practice
 
 https://zh-hant.reactjs.org/tutorial/tutorial.html
 
-[Issue with babel-jest dependency when running npm start in a React app](https://stackoverflow.com/questions/53089122/issue-with-babel-jest-dependency-when-running-npm-start-in-a-react-app)
+- [Issue with babel-jest dependency when running npm start in a React app](https://stackoverflow.com/questions/53089122/issue-with-babel-jest-dependency-when-running-npm-start-in-a-react-app)
 
-> rm -rf ~/node_modules/babel-jest ~/node_modules/jest
+    > rm -rf ~/node_modules/babel-jest ~/node_modules/jest
+
+- [npm start error with create-react-app](https://stackoverflow.com/questions/39959900/npm-start-error-with-create-react-app)
 
 Functional Programming:
 
