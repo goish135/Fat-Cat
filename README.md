@@ -4,6 +4,10 @@ Project ...
 
 https://zh-hant.reactjs.org/tutorial/tutorial.html
 
+Functional Programming:
+
+https://zims-en.kiwix.campusafrica.gos.orange.com/wikibooks_en_all_maxi/A/C_Programming/Side_effects_and_sequence_points
+
 **[MERN Backend]**
 
 1. **[GET/POST/`PUT/DELETE`]**
