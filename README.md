@@ -4,6 +4,10 @@ Project ... practice
 
 https://zh-hant.reactjs.org/tutorial/tutorial.html
 
+[Issue with babel-jest dependency when running npm start in a React app](https://stackoverflow.com/questions/53089122/issue-with-babel-jest-dependency-when-running-npm-start-in-a-react-app)
+
+> rm -rf ~/node_modules/babel-jest ~/node_modules/jest
+
 Functional Programming:
 
 https://zims-en.kiwix.campusafrica.gos.orange.com/wikibooks_en_all_maxi/A/C_Programming/Side_effects_and_sequence_points
