@@ -2,6 +2,13 @@
 
 Project ... practice
 
+
+[Build Tic Tac Toe with React](https://www.youtube.com/watch?v=mM-Se5TEmX8)
+
+- [HackMD - React](https://hackmd.io/@goish135/rJBHkoltt)
+
+---
+
 https://zh-hant.reactjs.org/tutorial/tutorial.html
 
 - [Issue with babel-jest dependency when running npm start in a React app](https://stackoverflow.com/questions/53089122/issue-with-babel-jest-dependency-when-running-npm-start-in-a-react-app)
@@ -9,6 +16,8 @@ https://zh-hant.reactjs.org/tutorial/tutorial.html
     > rm -rf ~/node_modules/babel-jest ~/node_modules/jest
 
 - [npm start error with create-react-app](https://stackoverflow.com/questions/39959900/npm-start-error-with-create-react-app)
+
+
 
 Functional Programming:
 
