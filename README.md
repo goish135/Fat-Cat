@@ -1,5 +1,9 @@
 # Tech
 
+**Next.js**
+
+https://nextjs.org/learn/basics/create-nextjs-app
+
 Project ... practice
 
 
