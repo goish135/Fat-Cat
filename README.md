@@ -7,6 +7,8 @@ https://mongoplayground.net/
 
 [#1 Mongoose - deep collections connect with populate](https://youtu.be/c2oWH1g2Fng)
 
+[(populate)app.js](https://gist.github.com/goish135/5721bfadb0e6946abcd6eef2b86113e0)
+
 **Topic Sharing**
 
 https://hackmd.io/@goish135/TS_Anthos
