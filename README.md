@@ -1,5 +1,8 @@
 # Tech
 
+**IT邦-13th 得獎名單**
+https://ithelp.ithome.com.tw/announces/87
+
 **Mongo**
 
 https://stackoverflow.com/questions/64664740/node-js-mongoose-find-method-usage-with-key-value-in-object
