@@ -4,6 +4,8 @@
 
 https://mongoplayground.net/
 
+[#1 Mongoose - deep collections connect with populate](https://youtu.be/c2oWH1g2Fng)
+
 **Topic Sharing**
 
 https://hackmd.io/@goish135/TS_Anthos
