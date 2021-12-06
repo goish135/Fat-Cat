@@ -2,6 +2,7 @@
 
 **Mongo**
 
+https://stackoverflow.com/questions/64664740/node-js-mongoose-find-method-usage-with-key-value-in-object
 https://mongoplayground.net/
 
 [#1 Mongoose - deep collections connect with populate](https://youtu.be/c2oWH1g2Fng)
