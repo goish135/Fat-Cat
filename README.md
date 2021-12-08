@@ -1,5 +1,7 @@
 # Tech
 
+## 簡潔清楚 表達問題
+
 **IT邦-13th 得獎名單**
 https://ithelp.ithome.com.tw/announces/87
 
