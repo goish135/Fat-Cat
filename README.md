@@ -1,5 +1,6 @@
 # Tech
 
+https://hackmd.io/@goish135/IT週記_W150
 ## 簡潔清楚 表達問題
 
 **IT邦-13th 得獎名單**
