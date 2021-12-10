@@ -1,12 +1,12 @@
 # Tech
 
 [TODO]
-1. API-groupleader
-2. API-keycloak
-3. Test Code for API
-4. CRUD Doc
-5. Cover API-RollCall
-6. CICD 
+1. (V) API-groupleader
+2. (V) API-keycloak
+3. (X) Test Code for API
+4. (X) CRUD Doc
+5. (△) Cover API-RollCall
+6. (X) CICD 
 
 https://hackmd.io/@goish135/IT週記_W150
 ## 簡潔清楚 表達問題
