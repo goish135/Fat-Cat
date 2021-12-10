@@ -1,5 +1,10 @@
 # Tech
 
+## [勿糾結]
+https://open.spotify.com/episode/4ILY9hCbgNRFRvH7r6Sfg8
+
+---
+
 https://gist.github.com/goish135/aa4b894ec05b887b7bbd6ca5dfda0876
 
 [TODO]
