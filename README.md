@@ -1,5 +1,7 @@
 # Tech
 
+https://gist.github.com/goish135/aa4b894ec05b887b7bbd6ca5dfda0876
+
 [TODO]
 1. (V) API-groupleader
 2. (V) API-keycloak
