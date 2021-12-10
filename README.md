@@ -32,6 +32,8 @@ https://mongoplayground.net/
 
 **Topic Sharing**
 
+>Antho- is a prefix derived from the Ancient Greek ἄνθος (anthos) meaning “flower”.
+
 https://hackmd.io/@goish135/TS_Anthos
 
 
