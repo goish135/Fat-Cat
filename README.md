@@ -1,5 +1,7 @@
 # Tech
 
+### async await ?
+
 ## [勿糾結]
 https://open.spotify.com/episode/4ILY9hCbgNRFRvH7r6Sfg8
 
