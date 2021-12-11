@@ -4,6 +4,8 @@ https://hackmd.io/@goish135/課堂點名
 
 ### async await ?
 
+[簡單理解 JavaScript Async 和 Await](https://www.oxxostudio.tw/articles/201908/js-async-await.html?fbclid=IwAR1j88IslNS6_h6s9Oip26D5Mzxv8XaNfx8ZxjcBpIbx0caaEG7eSYwDYiU)
+
 ## [勿糾結]
 https://open.spotify.com/episode/4ILY9hCbgNRFRvH7r6Sfg8
 
