@@ -1,5 +1,9 @@
 # Tech
 
+https://yu-jack.github.io/2020/09/14/unit-test-best-practice-part-1/
+
+### Blameless 
+
 ## Others
 - Practice
     - TODO spec.
