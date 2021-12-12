@@ -22,6 +22,8 @@ https://open.spotify.com/episode/4ILY9hCbgNRFRvH7r6Sfg8
 
 https://gist.github.com/goish135/aa4b894ec05b887b7bbd6ca5dfda0876
 
+[遇到 async，別用 forEach](https://medium.com/@steven234/%E9%81%87%E5%88%B0-async-%E5%88%A5%E7%94%A8-foreach-7cea84f4242f)
+
 [TODO]
 1. (V) API-groupleader
 2. (V) API-keycloak
