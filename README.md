@@ -3,6 +3,8 @@
 
 [Fastify Crash Course | Node.js Framework](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
 
+![](https://i.imgur.com/hJy61Ha.jpg)
+
 ---
 
 [10 Trending projects on GitHub for web developers - 10th December 2021
