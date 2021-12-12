@@ -1,5 +1,10 @@
 # Tech
 
+
+[Fastify Crash Course | Node.js Framework](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
+
+---
+
 [10 Trending projects on GitHub for web developers - 10th December 2021
 ](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-10th-december-2021-28l1?fbclid=IwAR2-U79QCW_oaejIRBTSqs2i0SuZkNf0ufX9Xw3TIVfoK6OsslH0t1gQxUs)
 
