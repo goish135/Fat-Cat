@@ -5,6 +5,8 @@
 
 ![](https://i.imgur.com/hJy61Ha.jpg)
 
+**Fastify Swagger API Documentation**
+
 ---
 
 [10 Trending projects on GitHub for web developers - 10th December 2021
