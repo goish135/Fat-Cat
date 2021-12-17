@@ -1,5 +1,9 @@
 # Tech
 
+https://hackmd.io/@goish135/dailycheckIN
+
+---
+
 (GG X) https://bearteach.com/bearman/5072
 
 
