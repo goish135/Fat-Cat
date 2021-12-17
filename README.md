@@ -1,6 +1,6 @@
 # Tech
 
-https://bearteach.com/bearman/5072
+(GG X) https://bearteach.com/bearman/5072
 
 
 https://yu-jack.github.io/2020/09/14/unit-test-best-practice-part-1/
