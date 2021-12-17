@@ -1,5 +1,7 @@
 # Tech
 
+## 系統簡單化 
+
 https://hackmd.io/@goish135/dailycheckIN
 
 ---
