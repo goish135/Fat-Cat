@@ -1,5 +1,8 @@
 # Tech
 
+https://hackmd.io/@goish135/course_checkIN
+
+[avoid-duplicate.js](https://gist.github.com/goish135/dfb72c826ae47c1237ab05e6d508065b)
 ## 系統簡單化 
 
 https://hackmd.io/@goish135/dailycheckIN
