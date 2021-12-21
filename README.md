@@ -1,5 +1,7 @@
 # Learning Path
 
+https://leetcode.com/problems/power-of-two/
+
 https://www.typescriptlang.org/play
 
 https://hackmd.io/@goish135/w151
