@@ -1,6 +1,8 @@
 # Learning Path
 
-https://www.yawintutor.com/value-annotation-in-spring-boot/
+> https://stackoverflow.com/questions/38986127/how-to-bind-a-string-array-of-properties-in-spring/38988610
+
+> https://www.yawintutor.com/value-annotation-in-spring-boot/
 
 https://hackmd.io/@goish135/w153
 
