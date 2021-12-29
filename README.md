@@ -1,5 +1,7 @@
 # Learning Path
 
+https://www.yawintutor.com/value-annotation-in-spring-boot/
+
 https://hackmd.io/@goish135/w153
 
 https://sonarqube.inria.fr/sonarqube/documentation/user-guide/issues/
