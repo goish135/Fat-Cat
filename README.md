@@ -1,5 +1,7 @@
 # Learning Path
 
+https://stackoverflow.com/questions/6707695/iterate-through-string-array-in-java
+
 https://stackoverflow.com/questions/6212898/spring-properties-file-get-element-as-an-array
 
 > https://stackoverflow.com/questions/38986127/how-to-bind-a-string-array-of-properties-in-spring/38988610
