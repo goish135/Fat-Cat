@@ -1,5 +1,9 @@
 # Learning Path
 
+write about tpReturn on heroku setting 
+
+https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+
 https://stackoverflow.com/questions/6707695/iterate-through-string-array-in-java
 
 https://stackoverflow.com/questions/6212898/spring-properties-file-get-element-as-an-array
