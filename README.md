@@ -1,5 +1,11 @@
 # Learning Path
 
+[Configure Sonar to exclude files from Maven pom.xml](https://stackoverflow.com/questions/21425012/configure-sonar-to-exclude-files-from-maven-pom-xml)
+
+[Class SimpleDateFormat](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
+
+--- 
+
 write about tpReturn on heroku setting 
 
 https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
