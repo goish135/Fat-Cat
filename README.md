@@ -1,5 +1,11 @@
 # Learning Path
 
+https://hackmd.io/@goish135/w202
+
+https://www.youtube.com/watch?v=fvaqygQ9oyc
+
+---
+
 [Configure Sonar to exclude files from Maven pom.xml](https://stackoverflow.com/questions/21425012/configure-sonar-to-exclude-files-from-maven-pom-xml)
 
 [Class SimpleDateFormat](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
