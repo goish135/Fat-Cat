@@ -1,5 +1,7 @@
 # Learning Path
 
+https://quarkus.io/guides/rest-client
+
 - https://codesandbox.io/examples/package/react-file-previewer
     - https://codesandbox.io/s/ukf3l   
 
