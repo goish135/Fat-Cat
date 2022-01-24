@@ -1,5 +1,7 @@
 # Learning Path
 
+[POST-ing a JSON document with plain Java](https://www.youtube.com/watch?v=SyZ8W5E5Xuw)
+
 [【Spring Boot】第9課－MockMvc 整合測試（一）](https://chikuwa-tech-study.blogspot.com/2021/05/spring-boot-mockmvc-integration-test-1.html)
 
 https://hackmd.io/@goish135/w204_thinkless
