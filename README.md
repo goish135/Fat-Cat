@@ -1,5 +1,9 @@
 # Learning Path
 
+https://github.com/goish135/18060200/releases/tag/v1
+
+---
+
 Tier 1+2
 
 [Jam](https://hackmd.io/@goish135/Jam_22_0209)
