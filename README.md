@@ -1,5 +1,11 @@
 # Learning Path
 
+(加密貨幣冷錢包教學)[https://www.youtube.com/watch?v=FOry3r6yuDg]
+
+https://hackmd.io/@goish135/PCA
+
+---
+
 https://hackmd.io/@goish135/LineNotify
 
 ---
