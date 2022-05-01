@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
+          
+    </head>
+  
+<body>
+    
+    
+    <template id="greetings">
+        /~~~~~~~~\   
+        | ((*)(*))   
+      y_|\___==__/|_y   type [[b;black;yellow]"help"] for more info.
+        \_|++++|_/   
+          _/  \_     
+    </template>
+    <script>
+        $('body').terminal({
+            what: function() {
+                this.enter("Happy Birthday to NeilKai!", { typing: true, delay: 150 });
+
+            },
+            who: function() {
+                const img = $('<img src="https://i.imgur.com/lojDjHO.jpg" width="200">');
+                this.echo(img);
+            },
+            help: function() {
+                this.echo('[[b;blue;white]Option 1: what]'); 
+                this.echo('[[b;blue;white]Option 2: who ]');
+            },
+            }, {
+            // NOTE: tags with ID are defined as global variable
+            greetings: greetings.innerHTML,
+            prompt: "[[;yellow;]>>> ]",
+            
+        });
+    </script>
+    
+</body>
+</html>
